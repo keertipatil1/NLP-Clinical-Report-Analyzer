@@ -1,0 +1,7 @@
+Patient Name: John Doe  
+Age: 58  
+Admission Date: 12th May 2023  
+Symptoms: Severe chest pain, shortness of breath.  
+Diagnosis: Acute Myocardial Infarction  
+Treatment: Administered aspirin 300mg and started on atorvastatin.  
+Notes: Patient has a history of hypertension and Type 2 Diabetes Mellitus. Monitoring vitals every 4 hours.
