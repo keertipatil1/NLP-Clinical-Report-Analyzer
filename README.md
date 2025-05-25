@@ -1,11 +1,12 @@
-# Clinical Report Analyzer 🩺
+Welcome to the **Clinical NLP Toolkit**!
 
+Use the sidebar to navigate:
+
+- 🩺 **Clinical Report Analyzer** to extract entities, classify, and identify key phrases in clinical reports.
+- 💬 **Clinical Assistant Chatbot** to ask questions about your uploaded report.
+
+Upload a `.txt` file in either tool to get started.
 A Streamlit-based NLP tool to extract medical entities from clinical reports using scispaCy.
-
-## Features
-- Upload `.txt` clinical reports
-- Extract diseases, symptoms, medications, etc.
-- Link terms to UMLS concepts
 
 ## Run Locally
 
